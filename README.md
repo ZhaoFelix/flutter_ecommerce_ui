@@ -1,6 +1,22 @@
 # flutter_ecommerce_ui
 
-A new Flutter project.
+Flutter  学习项目
+
+
+
+### 效果图
+
+#### android
+
+<center class="half">  
+  <img src="./screens/android1.png" width="300"/><img src="./screens/android2.png" width="300" style="margin-left:50px"/>
+</center>
+
+#### iOS
+
+<center class="half">  
+  <img src="./screens/ios1.png" width="300"/><img src="./screens/ios2.png" width="300" style="margin-left:50px"/>
+</center>
 
 ## Getting Started
 
