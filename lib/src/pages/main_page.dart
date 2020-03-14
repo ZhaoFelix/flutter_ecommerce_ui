@@ -1,12 +1,9 @@
 import 'package:flutter/material.dart';
-import '../model/data.dart';
 import '../pages/home_page.dart';
 import '../pages/shopping_cart_page.dart';
 import '../themes/light_color.dart';
 import '../themes/theme.dart';
 import '../widgets/bottomNavigationBar/bottom_navigation_bar.dart';
-import '../widgets/product_card.dart';
-import '../widgets/product_icon.dart';
 import '../widgets/title_text.dart';
 
 class MainPage extends StatefulWidget {
