@@ -1,13 +1,9 @@
 import 'package:flutter/material.dart';
 import '../model/data.dart';
-import '../model/product.dart';
 import '../themes/light_color.dart';
 import '../themes/theme.dart';
-import '../widgets/bottomNavigationBar/bottom_navigation_bar.dart';
 import '../widgets/product_card.dart';
 import '../widgets/product_icon.dart';
-import 'package:google_fonts/google_fonts.dart';
-import '../widgets/title_text.dart';
 
 class MyHomePage extends StatefulWidget {
   final String title;
